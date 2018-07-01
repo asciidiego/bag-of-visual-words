@@ -1,6 +1,2 @@
-data/
-*.zip
-*.tar
-*.tar.gz
-self_*
+other_data/
 src/.ipynb_checkpoints/*

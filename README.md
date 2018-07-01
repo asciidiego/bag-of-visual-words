@@ -8,7 +8,7 @@ All the progress has been recorded in jupyter notebooks:
 
 Links for the notebooks in their respective order are provided below:
 
-+ `training`
-+ `classify`
++ [`training`](http://nbviewer.jupyter.org/github/diegovincent/bag-of-visual-words/blob/master/src/training.ipynb)
++ [`classify`](http://nbviewer.jupyter.org/github/diegovincent/bag-of-visual-words/blob/master/src/classify.ipynb)
 
 Project dependencies as well as other useful information will be posted in the future.

@@ -1,4 +1,7 @@
 # bag-of-visual-words
+
+![alt text][results]
+
 Using the bag-of-words algorithm mainly used in text-retrieval applications for visual recognition using a linear support vector machine classifier.
 
 All the progress has been recorded in jupyter notebooks: 
@@ -12,3 +15,5 @@ Links for the notebooks in their respective order are provided below:
 + [`classify`](http://nbviewer.jupyter.org/github/diegovincent/bag-of-visual-words/blob/master/src/classify.ipynb)
 
 Project dependencies as well as other useful information will be posted in the future.
+
+[results]: https://github.com/diegovincent/bag-of-visual-words/blob/master/src/output/Montage_screenshot_01.07.2018.png "Classifier results"

@@ -20,9 +20,11 @@ Project dependencies as well as other useful information will be posted in the f
 
 **References**:
 
-[Towards Optimal Bag-of-Features for Object
-Categorization and Semantic Video Retrieval](http://yugangjiang.info/publication/civr07_yjiang.pdf)
-[Evaluating Bag-of-Visual-Words Representations in Scene
-Classification](http://lastchance.inf.cs.cmu.edu/alex/BagOfVisWords.MIR07.pdf)
-[Inverse Document Frequency Weighting](https://nlp.stanford.edu/IR-book/html/htmledition/inverse-document-frequency-1.html)
-[Bag of Visual Words in OpenCV for C++](http://vgg.fiit.stuba.sk/2015-02/bag-of-visual-words-in-opencv/)
+-[Towards Optimal Bag-of-Features for Object Categorization and Semantic Video Retrieval (http://yugangjiang.info/publication/civr07_yjiang.pdf)
+
+-[Evaluating Bag-of-Visual-Words Representations in Scene Classification](http://lastchance.inf.cs.cmu.edu/alex/BagOfVisWords.MIR07.pdf)
+
+-[Inverse Document Frequency Weighting](https://nlp.stanford.edu/IR-book/html/htmledition/inverse-document-frequency-1.html)
+
+-[Bag of Visual Words in OpenCV for C++](http://vgg.fiit.stuba.sk/2015-02/bag-of-visual-words-in-opencv/)
+

@@ -20,7 +20,7 @@ Project dependencies as well as other useful information will be posted in the f
 
 **References**:
 
--[Towards Optimal Bag-of-Features for Object Categorization and Semantic Video Retrieval (http://yugangjiang.info/publication/civr07_yjiang.pdf)
+-[Towards Optimal Bag-of-Features for Object Categorization and Semantic Video Retrieval](http://yugangjiang.info/publication/civr07_yjiang.pdf)
 
 -[Evaluating Bag-of-Visual-Words Representations in Scene Classification](http://lastchance.inf.cs.cmu.edu/alex/BagOfVisWords.MIR07.pdf)
 
